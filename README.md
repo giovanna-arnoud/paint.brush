@@ -4,6 +4,6 @@
 
 ---
 
-🇧🇷 É uma tela preta, onde você pode pintar com um pincel retangular na cor roxa com contorno em verde. Aperte F5 ou CTRL+R para reiniciar a página e a tela! :)
+🇧🇷 - É uma tela preta, onde você pode pintar com um pincel retangular na cor roxa com contorno em verde. Aperte F5 ou CTRL+R para reiniciar a página e a tela! :)
 
-🇺🇲 It's a black canvas, where you can paint with a rectangular brush in purple with a green outline. Press F5 or CTRL+R to restart the page and screen! :)
+🇺🇲 - It's a black canvas, where you can paint with a rectangular brush in purple with a green outline. Press F5 or CTRL+R to restart the page and screen! :)
